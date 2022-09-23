@@ -1,0 +1,188 @@
+.table {
+    margin: 50px auto;
+    
+    
+    width: 600px;
+    height: 400px;
+    border-collapse: collapse;
+}
+
+.head {
+    height: 150px;
+    background-color: rgb(10, 180, 223);
+    color: white;
+}
+
+.plan {
+    background-color: rgba(182, 170, 238, 0.747);
+    border-top-left-radius: 10%;
+}
+
+.starter {
+    background-color: rgba(150, 132, 230, 0.747);
+}
+
+.econom {
+    background-color: rgba(126, 103, 226, 0.747);
+}
+
+.standart {
+    background-color: rgba(97, 67, 230, 0.747);
+}
+
+.proffesional {
+    background-color: rgba(70, 34, 230, 0.747);
+    border-top-right-radius: 10%;
+}
+
+.body {
+    text-align: center;
+}
+
+.amount {
+    text-align: start;
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.amount1 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.amount2 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.amount3 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.amount4 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.bandwidth {
+    text-align: start;
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.bandwidth1 {
+    background-color: rgb(241, 241, 245);
+}
+
+.bandwidth2 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.bandwidth3 {
+    background-color: rgb(241, 241, 245);
+}
+
+.bandwidth4 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.email {
+    text-align: start;
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.email1 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.email2 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.email3 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.email4 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.db {
+    text-align: start;
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.db1 {
+    background-color: rgb(241, 241, 245);
+}
+
+.db2 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.db3 {
+    background-color: rgb(241, 241, 245);
+}
+
+.db4 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.support {
+    text-align: start;
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.support1 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.support2 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.support3 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.support4 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.tickets {
+    text-align: start;
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.tickets1 {
+    background-color: rgb(241, 241, 245);
+}
+
+.tickets2 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.tickets3 {
+    background-color: rgb(241, 241, 245);
+}
+
+.tickets4 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.button {
+    background-color: rgba(204, 204, 212, 0.986);
+    border-bottom-left-radius: 20%;
+}
+
+.button1 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.button2 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.button3 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.button4 {
+    background-color: rgba(204, 204, 212, 0.986);
+    border-bottom-right-radius: 20%;
+}

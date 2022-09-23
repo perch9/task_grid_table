@@ -1,0 +1,209 @@
+.table {
+    margin: 50px auto;
+    width: 600px;
+    height: 400px;
+    display: grid;
+    grid-template-areas:
+    "plan starter econom standart professional"
+    "amount amount1 amount2 amount3 amount4"
+    "bandwidth bandwidth1 bandwidth2 bandwidth3 bandwidth4"
+    "email email1 email2 email3 email4"
+    "db db1 db2 db3 db4"
+    "support support1 support2 support3 support4"
+    "tickets tickets1 tickets2 tickets3 tickets4"
+    "button button1 button2 button3 button4";
+   text-align: center;
+   line-height: 30px;
+}
+
+
+.plan {
+    grid-area: plan;
+    background-color: rgba(182, 170, 238, 0.747);
+    border-top-left-radius: 10%;
+    color: white;
+    line-height: 150px;
+}
+
+.starter {
+    grid-area: starter;
+    background-color: rgba(150, 132, 230, 0.747);
+    color: white;
+}
+
+.econom {
+    grid-area: econom;
+    background-color: rgba(126, 103, 226, 0.747);
+    color: white;
+}
+
+.standart {
+    grid-area: standart;
+    background-color: rgba(97, 67, 230, 0.747);
+    color: white;
+}
+
+.proffesional {
+    grid-area: professional;
+    background-color: rgba(70, 34, 230, 0.747);
+    border-top-right-radius: 10%;
+    color: white;
+}
+
+.amount {
+    grid-area: amount;
+    text-align: start;
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.amount1 {
+    grid-area: amount1;
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.amount2 {
+    grid-area: amount2;
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.amount3 {
+    grid-area: amount3;
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.amount4 {
+    grid-area: amount4;
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.bandwidth {
+    grid-area: bandwidth;
+    text-align: start;
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.bandwidth1 {
+    grid-area: bandwidth1;
+    background-color: rgb(241, 241, 245);
+}
+
+.bandwidth2 {
+    grid-area: bandwidth2;
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.bandwidth3 {
+    grid-area: bandwidth3;
+    background-color: rgb(241, 241, 245);
+}
+
+.bandwidth4 {
+    grid-area: bandwidth4;
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.email {
+    text-align: start;
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.email1 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.email2 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.email3 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.email4 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.db {
+    text-align: start;
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.db1 {
+    background-color: rgb(241, 241, 245);
+}
+
+.db2 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.db3 {
+    background-color: rgb(241, 241, 245);
+}
+
+.db4 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.support {
+    text-align: start;
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.support1 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.support2 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.support3 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.support4 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.tickets {
+    text-align: start;
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.tickets1 {
+    background-color: rgb(241, 241, 245);
+}
+
+.tickets2 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.tickets3 {
+    background-color: rgb(241, 241, 245);
+}
+
+.tickets4 {
+    background-color: rgba(229, 229, 236, 0.986);
+}
+
+.button {
+    background-color: rgba(204, 204, 212, 0.986);
+    border-bottom-left-radius: 20%;
+}
+
+.button1 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.button2 {
+    background-color: rgba(204, 204, 212, 0.986);
+}
+
+.button3 {
+    background-color: rgba(221, 221, 230, 0.986);
+}
+
+.button4 {
+    background-color: rgba(204, 204, 212, 0.986);
+    border-bottom-right-radius: 20%;
+}
